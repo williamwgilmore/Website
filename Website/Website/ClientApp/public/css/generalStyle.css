@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+
+#backgroundImage {
+    background-image: url("../images/m82.jpg");
+}
+
+.fullHeight {
+    height: 100%;
+}
